@@ -1,0 +1,31 @@
+
+section {
+    text-align: center;
+}
+
+.menu_top {
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.menu_top li {
+    list-style-type: none;
+}
+
+.menu_top a {
+    text-decoration: none;
+}
+
+#about_me {
+    text-align: center;
+}
+
+#about_me img {
+    border-radius: 10px;
+}
+
+.hard_skills p, .soft_skills p{
+    text-align: left;
+}
