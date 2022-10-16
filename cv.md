@@ -14,7 +14,7 @@
 ****
 ### Education 
 
-- M.A.     Software engineering, Donetsk National Technical University (2019-2023)
+- B.A.     Software engineering, Donetsk National Technical University (2019-2023)
 - B.A.     Enterprise economics, Donetsk National Technical University (2019-2023)
 ****
 ### Technical skils
